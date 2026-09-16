@@ -1,0 +1,6 @@
+{
+  "name": "Dark Coding Image Toolkit",
+  "description": "Image compressor, resizer, cropper, filters, and AI 4K Super-Resolution & Deblur Enhancer with dark mode interface",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
